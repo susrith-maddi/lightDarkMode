@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.dark-mode {
+  background-color: black;
+  color: white;
+  height:100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.light-mode {
+  background-color: white;
+  color: black;
+  height:100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
