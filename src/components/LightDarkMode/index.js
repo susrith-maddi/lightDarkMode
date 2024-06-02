@@ -3,7 +3,7 @@ import {Component} from 'react'
 import './index.css'
 
 class LightDarkMode extends Component {
-  state = {dark: true}
+  state = {dark: false}
   back = () => {
     this.setState(ps => ({dark: !ps.dark}))
   }
