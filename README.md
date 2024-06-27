@@ -1,6 +1,6 @@
-In this project, let's build a **Light Dark Mode** app by applying the concepts we have learned till now.
+In this project, I built a **Light Dark Mode** app.
 
-### Refer to the image below:
+### Refer to the image :
 
 <br/>
 <div style="text-align: center;">
